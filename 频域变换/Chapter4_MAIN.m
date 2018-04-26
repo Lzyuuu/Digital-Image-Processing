@@ -1,6 +1,6 @@
 clc;clear;close all;
 % 
-method = 5;
+method = 2;
 switch method
     case 1
         % 可视化二维DFT
